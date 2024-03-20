@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Mar 20, 2024 at 05:51 PM
+-- Generation Time: Mar 20, 2024 at 06:04 PM
 -- Server version: 8.0.30
 -- PHP Version: 8.1.10
 
@@ -42,7 +42,7 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`ID`, `AdminName`, `UserName`, `MobileNumber`, `Email`, `Password`, `AdminRegdate`) VALUES
-(1, 'Admin', 'admin', 7378664963, 'admin@gmail.com', '0e7517141fb53f21ee439b355b5a1d0a', '2019-10-11 04:36:52');
+(1, 'Admin', 'admin', 7249393346, 'sakshimeshram345@gmail.com', '0e7517141fb53f21ee439b355b5a1d0a', '2019-10-11 04:36:52');
 
 -- --------------------------------------------------------
 
@@ -118,7 +118,7 @@ CREATE TABLE `tblpage` (
 
 INSERT INTO `tblpage` (`ID`, `PageType`, `PageTitle`, `PageDescription`, `Email`, `MobileNumber`, `UpdationDate`) VALUES
 (1, 'aboutus', 'About Us', '<div style=\"text-align: start;\"><span style=\"color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, \" segoe=\"\" ui\",=\"\" roboto,=\"\" ubuntu,=\"\" cantarell,=\"\" \"noto=\"\" sans\",=\"\" sans-serif,=\"\" \"helvetica=\"\" neue\",=\"\" arial,=\"\" \"apple=\"\" color=\"\" emoji\",=\"\" \"segoe=\"\" ui=\"\" symbol\",=\"\" emoji\";=\"\" white-space-collapse:=\"\" preserve;\"=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Welcome to our Student Management System, a cutting-edge platform designed to streamline and enhance the educational experience for students, educators, and administrators alike. Our system is engineered to address the complex needs of modern educational institutions, providing comprehensive tools for managing student data, academic records, and administrative tasks efficiently and effectively.</span><br></div><div style=\"text-align: start;\"><span style=\"color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, \" segoe=\"\" ui\",=\"\" roboto,=\"\" ubuntu,=\"\" cantarell,=\"\" \"noto=\"\" sans\",=\"\" sans-serif,=\"\" \"helvetica=\"\" neue\",=\"\" arial,=\"\" \"apple=\"\" color=\"\" emoji\",=\"\" \"segoe=\"\" ui=\"\" symbol\",=\"\" emoji\";=\"\" white-space-collapse:=\"\" preserve;\"=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Student Management System, our mission is to empower educational institutions with innovative technology solutions that foster student success, facilitate administrative processes, and promote collaboration between all stakeholders. We are dedicated to delivering user-friendly, reliable, and scalable software that supports the evolving needs of today\'s educational landscape.</span><span style=\"color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, \" segoe=\"\" ui\",=\"\" roboto,=\"\" ubuntu,=\"\" cantarell,=\"\" \"noto=\"\" sans\",=\"\" sans-serif,=\"\" \"helvetica=\"\" neue\",=\"\" arial,=\"\" \"apple=\"\" color=\"\" emoji\",=\"\" \"segoe=\"\" ui=\"\" symbol\",=\"\" emoji\";=\"\" white-space-collapse:=\"\" preserve;\"=\"\"><br></span></div>', NULL, NULL, NULL),
-(2, 'contactus', 'Contact Us', '156/17 Gokhale Nagar, Main Road, Near Ganpat Super Market, Pune, 411016', 'info@smsystem.com', 7378664963, NULL);
+(2, 'contactus', 'Contact Us', '156/17 Gokhale Nagar, Main Road, Near Ganpat Super Market, Pune, 411016', 'sakshimeshram345@gmail.com', 7249393346, NULL);
 
 -- --------------------------------------------------------
 
